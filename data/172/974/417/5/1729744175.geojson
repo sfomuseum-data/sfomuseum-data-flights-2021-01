@@ -2,10 +2,12 @@
   "id": 1729744175,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-21",
+    "date:cessation_upper": "2021-01-21",
     "date:inception_lower": "2021-01-21",
     "date:inception_upper": "2021-01-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-01-21",
+    "edtf:cessation": "2021-01-21T18:09:28Z",
+    "edtf:inception": "2021-01-21T04:10:00Z",
     "flysfo:actual_timestamp": 1611273600,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-01-21",
@@ -48,6 +50,9 @@
       1477855833, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "147724465"
+    },
     "wof:country": "US",
     "wof:created": 1611331728,
     "wof:geomhash": "1b9d916c097bbded3c8620fa2d25ceca",
@@ -84,7 +89,7 @@
       1159285413, 
       1477930469
     ],
-    "wof:lastmodified": 1611331728,
+    "wof:lastmodified": 1611331747,
     "wof:name": "UA954 (SFO-TLV)",
     "wof:parent_id": 1477930469,
     "wof:placetype": "event",
