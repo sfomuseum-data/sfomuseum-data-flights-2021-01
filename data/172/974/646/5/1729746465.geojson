@@ -2,10 +2,12 @@
   "id": 1729746465,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-23",
+    "date:cessation_upper": "2021-01-23",
     "date:inception_lower": "2021-01-23",
     "date:inception_upper": "2021-01-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-01-23",
+    "edtf:cessation": "2021-01-23T08:20:25-08:00",
+    "edtf:inception": "2021-01-23T21:38:00Z",
     "flysfo:actual_timestamp": 1611446400,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-01-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 30.389476000000002,
     "geom:longitude": -116.044202,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102536441,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N413UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "147894472",
+      "swim:gufi": "KL63401700"
+    },
     "wof:country": "US",
     "wof:created": 1611504293,
     "wof:geomhash": "57b2b594ef41523ab9fe7c26d147f9bd",
@@ -44,9 +58,10 @@
       102527513, 
       102536441, 
       1159285413, 
-      -1
+      -1, 
+      1159292085
     ],
-    "wof:lastmodified": 1611504293,
+    "wof:lastmodified": 1611504597,
     "wof:name": "UA1174 (SJD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",

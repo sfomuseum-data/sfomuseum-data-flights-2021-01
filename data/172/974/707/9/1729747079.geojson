@@ -2,10 +2,12 @@
   "id": 1729747079,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-24",
+    "date:cessation_upper": "2021-01-24",
     "date:inception_lower": "2021-01-23",
     "date:inception_upper": "2021-01-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-01-23",
+    "edtf:cessation": "2021-01-24T01:45:19Z",
+    "edtf:inception": "2021-01-23T21:13:00Z",
     "flysfo:actual_timestamp": 1611446400,
     "flysfo:airline": "AS",
     "flysfo:date": "2021-01-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 32.795441,
     "geom:longitude": -102.4509355,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533243,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N534AS",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -82,9 +92,10 @@
       102533243, 
       102527513, 
       1159283813, 
-      1477930343
+      1477930343, 
+      1159289871
     ],
-    "wof:lastmodified": 1611504448,
+    "wof:lastmodified": 1611504598,
     "wof:name": "AS608 (SFO-TPA)",
     "wof:parent_id": 1477930343,
     "wof:placetype": "event",
