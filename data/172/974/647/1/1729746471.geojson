@@ -6,7 +6,7 @@
     "date:cessation_upper": "2021-01-24",
     "date:inception_lower": "2021-01-23",
     "date:inception_upper": "2021-01-23",
-    "edtf:cessation": "2021-01-23T23:00:58-08:00",
+    "edtf:cessation": "2021-01-23T23:15:31-08:00",
     "edtf:inception": "2021-01-23T14:06:00Z",
     "flysfo:actual_timestamp": 1611446400,
     "flysfo:airline": "UA",
@@ -99,7 +99,7 @@
       1477930447, 
       1377564285
     ],
-    "wof:lastmodified": 1611504597,
+    "wof:lastmodified": 1611604732,
     "wof:name": "UA1483 (LAS-SFO)",
     "wof:parent_id": 1477930447,
     "wof:placetype": "event",

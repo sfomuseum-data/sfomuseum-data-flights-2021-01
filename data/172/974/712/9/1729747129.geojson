@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2021-01-23",
     "date:cessation_upper": "2021-01-23",
-    "date:inception_lower": "2021-01-23",
-    "date:inception_upper": "2021-01-23",
+    "date:inception_lower": "2021-01-24",
+    "date:inception_upper": "2021-01-24",
     "edtf:cessation": "2021-01-23T19:45:00Z",
-    "edtf:inception": "2021-01-23T15:08:00Z",
+    "edtf:inception": "2021-01-23T23:19:58-08:00",
     "flysfo:actual_timestamp": 1611446400,
     "flysfo:airline": "DL",
     "flysfo:date": "2021-01-23",
@@ -40,8 +40,10 @@
     "src:geom": "flysfo",
     "src:geom_alt": [
       "swim-route", 
-      "swim-path"
+      "swim-path", 
+      "swim-takeoff"
     ],
+    "swim:tail_number": "N702TW",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -97,7 +99,7 @@
       1477930361, 
       1159289939
     ],
-    "wof:lastmodified": 1611504598,
+    "wof:lastmodified": 1611604735,
     "wof:name": "DL310 (SFO-JFK)",
     "wof:parent_id": 1477930361,
     "wof:placetype": "event",

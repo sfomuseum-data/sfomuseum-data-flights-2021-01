@@ -40,8 +40,10 @@
     "src:geom": "flysfo",
     "src:geom_alt": [
       "swim-route", 
-      "swim-path"
+      "swim-path", 
+      "swim-takeoff"
     ],
+    "swim:tail_number": "N57852",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -97,7 +99,7 @@
       1477930457, 
       1159289871
     ],
-    "wof:lastmodified": 1611504600,
+    "wof:lastmodified": 1611604737,
     "wof:name": "UA431 (SFO-ORD)",
     "wof:parent_id": 1477930457,
     "wof:placetype": "event",

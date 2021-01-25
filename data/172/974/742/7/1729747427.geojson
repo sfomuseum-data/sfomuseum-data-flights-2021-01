@@ -40,8 +40,10 @@
     "src:geom": "flysfo",
     "src:geom_alt": [
       "swim-route", 
-      "swim-path"
+      "swim-path", 
+      "swim-takeoff"
     ],
+    "swim:tail_number": "N38446",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -97,7 +99,7 @@
       1477930395, 
       1377564285
     ],
-    "wof:lastmodified": 1611504599,
+    "wof:lastmodified": 1611604737,
     "wof:name": "UA1923 (SFO-IAH)",
     "wof:parent_id": 1477930395,
     "wof:placetype": "event",
