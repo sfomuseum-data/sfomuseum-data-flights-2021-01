@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2021-01-22",
     "date:cessation_upper": "2021-01-22",
-    "date:inception_lower": "2021-01-21",
-    "date:inception_upper": "2021-01-21",
+    "date:inception_lower": "2021-01-22",
+    "date:inception_upper": "2021-01-22",
     "edtf:cessation": "2021-01-22T08:17:34Z",
-    "edtf:inception": "2021-01-21T10:50:07-08:00",
+    "edtf:inception": "2021-01-22T02:51:00Z",
     "flysfo:actual_timestamp": 1611273600,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-01-21",
@@ -39,6 +39,7 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route", 
       "swim-path", 
       "swim-takeoff"
     ],
@@ -97,7 +98,7 @@
       1477930435, 
       1159289871
     ],
-    "wof:lastmodified": 1611331747,
+    "wof:lastmodified": 1611604795,
     "wof:name": "UA1749 (SFO-OGG)",
     "wof:parent_id": 1477930435,
     "wof:placetype": "event",

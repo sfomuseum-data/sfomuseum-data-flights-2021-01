@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2021-01-21",
     "date:cessation_upper": "2021-01-21",
-    "date:inception_lower": "2021-01-21",
-    "date:inception_upper": "2021-01-21",
+    "date:inception_lower": "2021-01-22",
+    "date:inception_upper": "2021-01-22",
     "edtf:cessation": "2021-01-21T19:14:00Z",
-    "edtf:inception": "2021-01-21T15:35:00Z",
+    "edtf:inception": "2021-01-21T23:36:41-08:00",
     "flysfo:actual_timestamp": 1611273600,
     "flysfo:airline": "DL",
     "flysfo:date": "2021-01-21",
@@ -40,8 +40,10 @@
     "src:geom": "flysfo",
     "src:geom_alt": [
       "swim-route", 
-      "swim-path"
+      "swim-path", 
+      "swim-takeoff"
     ],
+    "swim:tail_number": "N852DN",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -97,7 +99,7 @@
       1477930363, 
       1377564285
     ],
-    "wof:lastmodified": 1611331746,
+    "wof:lastmodified": 1611604794,
     "wof:name": "DL785 (SFO-DTW)",
     "wof:parent_id": 1477930363,
     "wof:placetype": "event",

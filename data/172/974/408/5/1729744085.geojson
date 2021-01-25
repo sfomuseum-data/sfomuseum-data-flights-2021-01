@@ -7,7 +7,7 @@
     "date:inception_lower": "2021-01-22",
     "date:inception_upper": "2021-01-22",
     "edtf:cessation": "2021-01-22T12:25:00Z",
-    "edtf:inception": "2021-01-21T16:11:16-08:00",
+    "edtf:inception": "2021-01-22T08:11:00Z",
     "flysfo:actual_timestamp": 1611273600,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-01-21",
@@ -98,7 +98,7 @@
       1477930445, 
       1159289407
     ],
-    "wof:lastmodified": 1611331747,
+    "wof:lastmodified": 1611604795,
     "wof:name": "UA2247 (SFO-IAD)",
     "wof:parent_id": 1477930445,
     "wof:placetype": "event",

@@ -2,12 +2,12 @@
   "id": 1729744093,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1970-01-01",
-    "date:cessation_upper": "1970-01-01",
-    "date:inception_lower": "2021-01-21",
-    "date:inception_upper": "2021-01-21",
-    "edtf:cessation": "1970-01-01T00:00:00Z",
-    "edtf:inception": "2021-01-21T10:41:32-08:00",
+    "date:cessation_lower": "2021-01-22",
+    "date:cessation_upper": "2021-01-22",
+    "date:inception_lower": "2021-01-22",
+    "date:inception_upper": "2021-01-22",
+    "edtf:cessation": "2021-01-22T03:44:45Z",
+    "edtf:inception": "2021-01-22T02:42:00Z",
     "flysfo:actual_timestamp": 1611273600,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-01-21",
@@ -39,6 +39,7 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route", 
       "swim-path", 
       "swim-takeoff"
     ],
@@ -56,6 +57,9 @@
       1477855699, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO00424600"
+    },
     "wof:country": "US",
     "wof:created": 1611331704,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -93,7 +97,7 @@
       1477930439, 
       1377564285
     ],
-    "wof:lastmodified": 1611331747,
+    "wof:lastmodified": 1611604795,
     "wof:name": "UA394 (SFO-LAS)",
     "wof:parent_id": 1477930439,
     "wof:placetype": "event",

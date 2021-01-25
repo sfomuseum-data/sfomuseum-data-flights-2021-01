@@ -2,12 +2,12 @@
   "id": 1729744171,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1970-01-01",
-    "date:cessation_upper": "1970-01-01",
-    "date:inception_lower": "2021-01-21",
-    "date:inception_upper": "2021-01-21",
-    "edtf:cessation": "1970-01-01T00:00:00Z",
-    "edtf:inception": "2021-01-21T11:38:34-08:00",
+    "date:cessation_lower": "2021-01-22",
+    "date:cessation_upper": "2021-01-22",
+    "date:inception_lower": "2021-01-22",
+    "date:inception_upper": "2021-01-22",
+    "edtf:cessation": "2021-01-22T18:10:12Z",
+    "edtf:inception": "2021-01-22T03:39:00Z",
     "flysfo:actual_timestamp": 1611273600,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-01-21",
@@ -57,6 +57,9 @@
       1477855833, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO80450500"
+    },
     "wof:country": "US",
     "wof:created": 1611331727,
     "wof:geomhash": "5685f56014cf853d095c4b0f2d5ea6d9",
@@ -94,7 +97,7 @@
       1477930463, 
       1159293215
     ],
-    "wof:lastmodified": 1611331747,
+    "wof:lastmodified": 1611604796,
     "wof:name": "UA867 (SFO-DEL)",
     "wof:parent_id": 1477930463,
     "wof:placetype": "event",

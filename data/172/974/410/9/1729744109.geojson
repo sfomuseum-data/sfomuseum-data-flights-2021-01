@@ -39,6 +39,7 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route", 
       "swim-path", 
       "swim-takeoff"
     ],
@@ -96,7 +97,7 @@
       1477930457, 
       1159289871
     ],
-    "wof:lastmodified": 1611331747,
+    "wof:lastmodified": 1611604795,
     "wof:name": "UA450 (SFO-DEN)",
     "wof:parent_id": 1477930457,
     "wof:placetype": "event",

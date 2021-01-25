@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2021-01-21",
     "date:cessation_upper": "2021-01-21",
-    "date:inception_lower": "1970-01-01",
-    "date:inception_upper": "1970-01-01",
+    "date:inception_lower": "2021-01-22",
+    "date:inception_upper": "2021-01-22",
     "edtf:cessation": "2021-01-21T13:36:57-08:00",
-    "edtf:inception": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2021-01-22T03:15:00Z",
     "flysfo:actual_timestamp": 1611273600,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-01-21",
@@ -39,6 +39,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
       "swim-approach"
     ],
     "swim:tail_number": "N418UA",
@@ -56,6 +58,9 @@
       1477855699, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KD85577500"
+    },
     "wof:country": "US",
     "wof:created": 1611331502,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -93,7 +98,7 @@
       1477930381, 
       1159292085
     ],
-    "wof:lastmodified": 1611331745,
+    "wof:lastmodified": 1611604792,
     "wof:name": "UA257 (DEN-SFO)",
     "wof:parent_id": 1477930381,
     "wof:placetype": "event",

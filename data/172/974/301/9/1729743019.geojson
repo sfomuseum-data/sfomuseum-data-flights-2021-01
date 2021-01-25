@@ -39,6 +39,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
       "swim-approach"
     ],
     "swim:tail_number": "N851VA",
@@ -93,7 +95,7 @@
       1477930343, 
       1159292085
     ],
-    "wof:lastmodified": 1611331742,
+    "wof:lastmodified": 1611604791,
     "wof:name": "AS1213 (ORD-SFO)",
     "wof:parent_id": 1477930343,
     "wof:placetype": "event",

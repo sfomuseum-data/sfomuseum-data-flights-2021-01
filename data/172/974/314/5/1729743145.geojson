@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2021-01-21",
     "date:cessation_upper": "2021-01-21",
-    "date:inception_lower": "1970-01-01",
-    "date:inception_upper": "1970-01-01",
+    "date:inception_lower": "2021-01-22",
+    "date:inception_upper": "2021-01-22",
     "edtf:cessation": "2021-01-21T14:48:37-08:00",
-    "edtf:inception": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2021-01-22T05:08:00Z",
     "flysfo:actual_timestamp": 1611273600,
     "flysfo:airline": "DL",
     "flysfo:date": "2021-01-21",
@@ -39,6 +39,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
       "swim-approach"
     ],
     "swim:tail_number": "N136DQ",
@@ -56,6 +58,9 @@
       1477855657, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KU14769600"
+    },
     "wof:country": "US",
     "wof:created": 1611331399,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -93,7 +98,7 @@
       1477930335, 
       1528104583
     ],
-    "wof:lastmodified": 1611331743,
+    "wof:lastmodified": 1611604791,
     "wof:name": "DL1263 (SLC-SFO)",
     "wof:parent_id": 1477930335,
     "wof:placetype": "event",

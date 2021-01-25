@@ -2,12 +2,12 @@
   "id": 1729743811,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1970-01-01",
-    "date:cessation_upper": "1970-01-01",
-    "date:inception_lower": "2021-01-21",
-    "date:inception_upper": "2021-01-21",
-    "edtf:cessation": "1970-01-01T00:00:00Z",
-    "edtf:inception": "2021-01-21T14:20:44-08:00",
+    "date:cessation_lower": "2021-01-22",
+    "date:cessation_upper": "2021-01-22",
+    "date:inception_lower": "2021-01-22",
+    "date:inception_upper": "2021-01-22",
+    "edtf:cessation": "2021-01-22T10:24:15Z",
+    "edtf:inception": "2021-01-22T06:21:00Z",
     "flysfo:actual_timestamp": 1611273600,
     "flysfo:airline": "DL",
     "flysfo:date": "2021-01-21",
@@ -58,6 +58,9 @@
       1477855657, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO18669600"
+    },
     "wof:country": "US",
     "wof:created": 1611331620,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -95,7 +98,7 @@
       1477930331, 
       1377564285
     ],
-    "wof:lastmodified": 1611331746,
+    "wof:lastmodified": 1611604794,
     "wof:name": "DL554 (SFO-ATL)",
     "wof:parent_id": 1477930331,
     "wof:placetype": "event",
