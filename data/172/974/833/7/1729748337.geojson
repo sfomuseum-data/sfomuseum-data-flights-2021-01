@@ -28,7 +28,7 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159286153,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:departure_id": -1,
+    "sfomuseum:departure_id": 1729748337,
     "sfomuseum:flight_id": "20210124-A-QTR-737",
     "sfomuseum:flight_number": [
       "QTR737", 
@@ -47,9 +47,8 @@
     "wof:id": 1729748337,
     "wof:involves": [
       102527513, 
-      -1, 
-      1159286153, 
-      -1
+      1729748337,
+      1159286153
     ],
     "wof:lastmodified": 1611604520,
     "wof:name": "QR737 (DOH-SFO)",
