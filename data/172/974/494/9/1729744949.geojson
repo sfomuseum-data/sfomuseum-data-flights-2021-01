@@ -2,11 +2,11 @@
   "id": 1729744949,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2021-01-22",
-    "date:cessation_upper": "2021-01-22",
+    "date:cessation_lower": "2021-01-23",
+    "date:cessation_upper": "2021-01-23",
     "date:inception_lower": "2021-01-22",
     "date:inception_upper": "2021-01-22",
-    "edtf:cessation": "2021-01-22T00:11:28-08:00",
+    "edtf:cessation": "2021-01-22T23:58:49-08:00",
     "edtf:inception": "2021-01-22T12:07:00Z",
     "flysfo:actual_timestamp": 1611360000,
     "flysfo:airline": "UA",
@@ -61,7 +61,7 @@
       -1, 
       1159289871
     ],
-    "wof:lastmodified": 1611418076,
+    "wof:lastmodified": 1611604767,
     "wof:name": "UA820 (MEX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",

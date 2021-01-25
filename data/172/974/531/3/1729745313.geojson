@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2021-01-23",
     "date:cessation_upper": "2021-01-23",
-    "date:inception_lower": "2021-01-22",
-    "date:inception_upper": "2021-01-22",
+    "date:inception_lower": "2021-01-23",
+    "date:inception_upper": "2021-01-23",
     "edtf:cessation": "2021-01-23T08:20:00Z",
-    "edtf:inception": "2021-01-22T15:00:08-08:00",
+    "edtf:inception": "2021-01-23T07:00:00Z",
     "flysfo:actual_timestamp": 1611360000,
     "flysfo:airline": "DL",
     "flysfo:date": "2021-01-22",
@@ -39,6 +39,7 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route", 
       "swim-path", 
       "swim-takeoff"
     ],
@@ -59,7 +60,7 @@
       -1, 
       1159289939
     ],
-    "wof:lastmodified": 1611418077,
+    "wof:lastmodified": 1611604768,
     "wof:name": "DL8926 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",

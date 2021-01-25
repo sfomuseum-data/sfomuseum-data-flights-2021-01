@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2021-01-23",
     "date:cessation_upper": "2021-01-23",
-    "date:inception_lower": "2021-01-22",
-    "date:inception_upper": "2021-01-22",
+    "date:inception_lower": "2021-01-23",
+    "date:inception_upper": "2021-01-23",
     "edtf:cessation": "2021-01-23T12:12:00Z",
-    "edtf:inception": "2021-01-22T15:39:03-08:00",
+    "edtf:inception": "2021-01-23T07:39:00Z",
     "flysfo:actual_timestamp": 1611386460,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-01-22",
@@ -98,7 +98,7 @@
       1477930463, 
       1377564285
     ],
-    "wof:lastmodified": 1611418078,
+    "wof:lastmodified": 1611604769,
     "wof:name": "UA1947 (SFO-CUN)",
     "wof:parent_id": 1477930463,
     "wof:placetype": "event",

@@ -6,7 +6,7 @@
     "date:cessation_upper": "2021-01-23",
     "date:inception_lower": "2021-01-22",
     "date:inception_upper": "2021-01-22",
-    "edtf:cessation": "2021-01-23T19:18:00Z",
+    "edtf:cessation": "2021-01-23T19:03:35Z",
     "edtf:inception": "2021-01-22T03:39:00Z",
     "flysfo:actual_timestamp": 1611360000,
     "flysfo:airline": "UA",
@@ -98,7 +98,7 @@
       1477930463, 
       1159293215
     ],
-    "wof:lastmodified": 1611418078,
+    "wof:lastmodified": 1611604769,
     "wof:name": "UA867 (SFO-DEL)",
     "wof:parent_id": 1477930463,
     "wof:placetype": "event",

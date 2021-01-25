@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2021-01-22",
     "date:cessation_upper": "2021-01-22",
-    "date:inception_lower": "1970-01-01",
-    "date:inception_upper": "1970-01-01",
+    "date:inception_lower": "2021-01-23",
+    "date:inception_upper": "2021-01-23",
     "edtf:cessation": "2021-01-22T14:57:46-08:00",
-    "edtf:inception": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2021-01-23T02:04:00Z",
     "flysfo:actual_timestamp": 1611360000,
     "flysfo:airline": "DL",
     "flysfo:date": "2021-01-22",
@@ -39,6 +39,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
       "swim-approach"
     ],
     "swim:tail_number": "N860DN",
@@ -56,6 +58,9 @@
       1477855607, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KC04198702"
+    },
     "wof:country": "US",
     "wof:created": 1611417802,
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
@@ -93,7 +98,7 @@
       1477930361, 
       1377564285
     ],
-    "wof:lastmodified": 1611418074,
+    "wof:lastmodified": 1611604765,
     "wof:name": "DL994 (DTW-SFO)",
     "wof:parent_id": 1477930361,
     "wof:placetype": "event",

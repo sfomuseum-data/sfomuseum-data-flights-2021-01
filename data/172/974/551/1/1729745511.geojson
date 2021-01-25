@@ -39,6 +39,7 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route", 
       "swim-path", 
       "swim-takeoff"
     ],
@@ -93,7 +94,7 @@
       1477881725, 
       1159289871
     ],
-    "wof:lastmodified": 1611418077,
+    "wof:lastmodified": 1611604769,
     "wof:name": "WN4722 (SFO-LAX)",
     "wof:parent_id": 1477881725,
     "wof:placetype": "event",
