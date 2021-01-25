@@ -2,10 +2,12 @@
   "id": 1729748451,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-24",
+    "date:cessation_upper": "2021-01-24",
     "date:inception_lower": "2021-01-24",
     "date:inception_upper": "2021-01-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-01-24",
+    "edtf:cessation": "2021-01-24T01:32:25-08:00",
+    "edtf:inception": "2021-01-24T13:09:00Z",
     "flysfo:actual_timestamp": 1611532800,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-01-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533631,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N438UA",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +58,10 @@
       1477855699, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "147915916",
+      "swim:gufi": "KG37762100"
+    },
     "wof:country": "US",
     "wof:created": 1611590708,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -82,9 +96,10 @@
       102527513, 
       102533631, 
       1159285413, 
-      1477930441
+      1477930441, 
+      1159292085
     ],
-    "wof:lastmodified": 1611590708,
+    "wof:lastmodified": 1611590993,
     "wof:name": "UA2114 (ORD-SFO)",
     "wof:parent_id": 1477930441,
     "wof:placetype": "event",

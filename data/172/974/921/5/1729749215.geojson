@@ -2,10 +2,12 @@
   "id": 1729749215,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-25",
+    "date:cessation_upper": "2021-01-25",
     "date:inception_lower": "2021-01-24",
     "date:inception_upper": "2021-01-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-01-24",
+    "edtf:cessation": "2021-01-25T13:45:03Z",
+    "edtf:inception": "2021-01-24T23:18:00Z",
     "flysfo:actual_timestamp": 1611532800,
     "flysfo:airline": "QR",
     "flysfo:date": "2021-01-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 18.808995,
     "geom:longitude": -61.1854715,
     "iata:airline": "QR",
+    "icao:aircraft": "A359",
     "icao:airline": "QTR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1159286153,
     "sfomuseum:arrival_id": -1,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "147950261"
+    },
     "wof:country": "US",
     "wof:created": 1611590902,
     "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
@@ -44,9 +55,10 @@
       -1, 
       102527513, 
       1159286153, 
-      -1
+      -1, 
+      1377564293
     ],
-    "wof:lastmodified": 1611590902,
+    "wof:lastmodified": 1611590994,
     "wof:name": "QR738 (SFO-DOH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",

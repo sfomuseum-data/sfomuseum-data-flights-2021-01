@@ -2,10 +2,12 @@
   "id": 1729748299,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-24",
+    "date:cessation_upper": "2021-01-24",
     "date:inception_lower": "2021-01-24",
     "date:inception_upper": "2021-01-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-01-24",
+    "edtf:cessation": "2021-01-24T17:24:32Z",
+    "edtf:inception": "2021-01-24T09:14:27Z",
     "flysfo:actual_timestamp": 1611532800,
     "flysfo:airline": "JL",
     "flysfo:date": "2021-01-24",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "147960591"
+    },
     "wof:country": "US",
     "wof:created": 1611590666,
     "wof:geomhash": "d46bcc8d1d94e68df95be799ac6a3b4c",
@@ -46,7 +51,7 @@
       1159284563, 
       -1
     ],
-    "wof:lastmodified": 1611590666,
+    "wof:lastmodified": 1611590992,
     "wof:name": "JL58 (NRT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
