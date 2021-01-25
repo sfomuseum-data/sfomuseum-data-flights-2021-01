@@ -2,11 +2,11 @@
   "id": 1729748627,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2021-01-24",
-    "date:cessation_upper": "2021-01-24",
+    "date:cessation_lower": "2021-01-25",
+    "date:cessation_upper": "2021-01-25",
     "date:inception_lower": "2021-01-25",
     "date:inception_upper": "2021-01-25",
-    "edtf:cessation": "2021-01-24T00:08:09-08:00",
+    "edtf:cessation": "2021-01-24T23:59:58-08:00",
     "edtf:inception": "2021-01-25T03:06:00Z",
     "flysfo:actual_timestamp": 1611532800,
     "flysfo:airline": "UA",
@@ -59,7 +59,7 @@
       102085387
     ],
     "wof:concordances": {
-      "swim:gufi": "KO00183200"
+      "swim:gufi": "KO52435200"
     },
     "wof:country": "US",
     "wof:created": 1611590752,
@@ -98,7 +98,7 @@
       1477930463, 
       1159293215
     ],
-    "wof:lastmodified": 1611590993,
+    "wof:lastmodified": 1611604522,
     "wof:name": "UA870 (SYD-SFO)",
     "wof:parent_id": 1477930463,
     "wof:placetype": "event",

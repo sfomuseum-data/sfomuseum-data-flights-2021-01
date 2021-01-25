@@ -2,11 +2,11 @@
   "id": 1729748419,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2021-01-24",
-    "date:cessation_upper": "2021-01-24",
+    "date:cessation_lower": "2021-01-25",
+    "date:cessation_upper": "2021-01-25",
     "date:inception_lower": "2021-01-24",
     "date:inception_upper": "2021-01-24",
-    "edtf:cessation": "2021-01-24T15:16:18Z",
+    "edtf:cessation": "2021-01-24T23:20:20-08:00",
     "edtf:inception": "2021-01-24T14:10:00Z",
     "flysfo:actual_timestamp": 1611532800,
     "flysfo:airline": "UA",
@@ -40,8 +40,10 @@
     "src:geom": "flysfo",
     "src:geom_alt": [
       "swim-route", 
-      "swim-path"
+      "swim-path", 
+      "swim-approach"
     ],
+    "swim:tail_number": "N69888",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -97,7 +99,7 @@
       1477930447, 
       1377564285
     ],
-    "wof:lastmodified": 1611590993,
+    "wof:lastmodified": 1611604520,
     "wof:name": "UA1483 (LAS-SFO)",
     "wof:parent_id": 1477930447,
     "wof:placetype": "event",
