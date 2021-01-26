@@ -2,10 +2,12 @@
   "id": 1729750099,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-25",
+    "date:cessation_upper": "2021-01-25",
     "date:inception_lower": "2021-01-25",
     "date:inception_upper": "2021-01-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-01-25",
+    "edtf:cessation": "2021-01-25T03:03:19-08:00",
+    "edtf:inception": "2021-01-25T14:15:00Z",
     "flysfo:actual_timestamp": 1611619200,
     "flysfo:airline": "DL",
     "flysfo:date": "2021-01-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.918425,
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615091,
     "lbl:longitude": -122.38208,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102525635,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N880DN",
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +58,10 @@
       1477855657, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "147965475",
+      "swim:gufi": "KC46561200"
+    },
     "wof:country": "US",
     "wof:created": 1611677081,
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
@@ -79,12 +93,13 @@
     ],
     "wof:id": 1729750099,
     "wof:involves": [
-      102527513, 
-      102525635, 
       1159284261, 
-      1477930333
+      1477930333, 
+      1377564285, 
+      102527513, 
+      102525635
     ],
-    "wof:lastmodified": 1611677081,
+    "wof:lastmodified": 1611677429,
     "wof:name": "DL712 (DTW-SFO)",
     "wof:parent_id": 1477930333,
     "wof:placetype": "event",
