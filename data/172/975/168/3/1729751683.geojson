@@ -2,10 +2,12 @@
   "id": 1729751683,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-27",
+    "date:cessation_upper": "2021-01-27",
     "date:inception_lower": "2021-01-26",
     "date:inception_upper": "2021-01-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-01-26",
+    "edtf:cessation": "2021-01-27T01:04:05Z",
+    "edtf:inception": "2021-01-26T06:35:57Z",
     "flysfo:actual_timestamp": 1611705600,
     "flysfo:airline": "AI",
     "flysfo:date": "2021-01-26",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "148055330"
+    },
     "wof:country": "US",
     "wof:created": 1611763347,
     "wof:geomhash": "c9618692327b148a3f9466df78845400",
@@ -46,7 +51,7 @@
       1159283649, 
       -1
     ],
-    "wof:lastmodified": 1611763347,
+    "wof:lastmodified": 1611763769,
     "wof:name": "AI183 (DEL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",

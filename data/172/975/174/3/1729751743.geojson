@@ -2,10 +2,12 @@
   "id": 1729751743,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-26",
+    "date:cessation_upper": "2021-01-26",
     "date:inception_lower": "2021-01-26",
     "date:inception_upper": "2021-01-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-01-26",
+    "edtf:cessation": "2021-01-26T16:49:49Z",
+    "edtf:inception": "2021-01-26T08:10:32Z",
     "flysfo:actual_timestamp": 1611705600,
     "flysfo:airline": "NH",
     "flysfo:date": "2021-01-26",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "148056907"
+    },
     "wof:country": "US",
     "wof:created": 1611763362,
     "wof:geomhash": "d46bcc8d1d94e68df95be799ac6a3b4c",
@@ -46,7 +51,7 @@
       1159283875, 
       -1
     ],
-    "wof:lastmodified": 1611763362,
+    "wof:lastmodified": 1611763769,
     "wof:name": "NH8 (NRT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
