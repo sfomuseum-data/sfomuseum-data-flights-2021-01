@@ -2,10 +2,12 @@
   "id": 1729764187,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-30",
+    "date:cessation_upper": "2021-01-30",
     "date:inception_lower": "2021-01-30",
     "date:inception_upper": "2021-01-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-01-30",
+    "edtf:cessation": "2021-01-30T16:05:00Z",
+    "edtf:inception": "2021-01-30T14:07:00Z",
     "flysfo:actual_timestamp": 1612051200,
     "flysfo:airline": "WN",
     "flysfo:date": "2021-01-30",
@@ -34,7 +36,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "148248298"
+    },
     "wof:country": "US",
     "wof:created": 1612109271,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -46,7 +55,7 @@
       1159285591, 
       -1
     ],
-    "wof:lastmodified": 1612109271,
+    "wof:lastmodified": 1612109328,
     "wof:name": "WN3802 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
