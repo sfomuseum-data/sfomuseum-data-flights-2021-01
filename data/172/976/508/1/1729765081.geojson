@@ -2,10 +2,12 @@
   "id": 1729765081,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-31",
+    "date:cessation_upper": "2021-01-31",
     "date:inception_lower": "2021-01-31",
     "date:inception_upper": "2021-01-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-01-31",
+    "edtf:cessation": "2021-01-31T15:33:33Z",
+    "edtf:inception": "2021-01-31T14:11:00Z",
     "flysfo:actual_timestamp": 1612137600,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-01-31",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.621173,
     "lbl:longitude": -122.390131,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527209,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path"
+    ],
     "wof:belongsto": [
       1477855605, 
       102527513, 
@@ -48,6 +56,10 @@
       1477855699, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "148307376",
+      "swim:gufi": "KL38719100"
+    },
     "wof:country": "US",
     "wof:created": 1612195495,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -79,12 +91,13 @@
     ],
     "wof:id": 1729765081,
     "wof:involves": [
+      1377564285, 
       102527513, 
       102527209, 
       1159285413, 
       1477930457
     ],
-    "wof:lastmodified": 1612195495,
+    "wof:lastmodified": 1612195735,
     "wof:name": "UA1483 (LAS-SFO)",
     "wof:parent_id": 1477930457,
     "wof:placetype": "event",
