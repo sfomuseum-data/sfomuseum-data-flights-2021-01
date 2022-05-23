@@ -2,6 +2,10 @@
   "id": 1729705927,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-06",
+    "date:cessation_upper": "2021-01-06",
+    "date:inception_lower": "2021-01-06",
+    "date:inception_upper": "2021-01-06",
     "edtf:cessation": "2021-01-06T02:56:08-07:00",
     "edtf:inception": "2021-01-06T13:19:00Z",
     "flysfo:actual_timestamp": 1609977600,
@@ -32,31 +36,30 @@
     "sfomuseum:departure_id": 102526927,
     "sfomuseum:flight_id": "20210106-A-DAL-715",
     "sfomuseum:flight_number": [
-      "DAL715", 
+      "DAL715",
       "DL715"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N913DU",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      554784711, 
-      102087579, 
-      1729705927, 
-      85688637, 
-      1477855669, 
-      102085387, 
-      85922583, 
-      1477930325, 
-      1477855657, 
-      1477855605, 
-      102191575
+      102527513,
+      85633793,
+      554784711,
+      102087579,
+      85688637,
+      102085387,
+      85922583,
+      102191575,
+      1729792387,
+      1729792459,
+      1729792471,
+      1729792435
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -68,9 +71,9 @@
     "wof:geomhash": "ae92617dd2aca2afdb0c9096232ff0bb",
     "wof:hierarchy": [
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855669,
+        "concourse_id": 1729792459,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -78,33 +81,33 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1477930325,
-        "wing_id": 1477855657
-      }, 
+        "venue_id": 1729792471,
+        "wing_id": 1729792435
+      },
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855669,
+        "concourse_id": 1729792459,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "event_id": 1729705927,
         "region_id": 85688637,
-        "venue_id": 1477930325,
-        "wing_id": 1477855657
+        "venue_id": 1729792471,
+        "wing_id": 1729792435
       }
     ],
     "wof:id": 1729705927,
     "wof:involves": [
-      102527513, 
-      102526927, 
-      1159284261, 
-      1477930325, 
+      102527513,
+      102526927,
+      1159284261,
+      1477930325,
       1377564285
     ],
-    "wof:lastmodified": 1610035758,
+    "wof:lastmodified": 1653097152,
     "wof:name": "DL715 (ATL-SFO)",
-    "wof:parent_id": 1477930325,
+    "wof:parent_id": 1729792471,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
@@ -112,9 +115,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-84.430686,33.636518],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1729717517,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-12",
+    "date:cessation_upper": "2021-01-12",
+    "date:inception_lower": "2021-01-12",
+    "date:inception_upper": "2021-01-12",
     "edtf:cessation": "2021-01-12T13:59:07-07:00",
     "edtf:inception": "2021-01-12T23:26:00Z",
     "flysfo:actual_timestamp": 1610496000,
@@ -32,31 +36,30 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20210112-A-ASA-345",
     "sfomuseum:flight_number": [
-      "ASA345", 
+      "ASA345",
       "AS345"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N590AS",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      102085387, 
-      102087579, 
-      1729717517, 
-      85922583, 
-      1477855609, 
-      554784711, 
-      1477855607, 
-      1477855605, 
-      1477930357, 
-      102191575, 
-      102527513
+      85688637,
+      85633793,
+      102085387,
+      102087579,
+      85922583,
+      554784711,
+      102191575,
+      102527513,
+      1729792387,
+      1729792391,
+      1729792411,
+      1729792389
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -67,9 +70,9 @@
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
     "wof:hierarchy": [
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855609,
+        "concourse_id": 1729792391,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -77,33 +80,33 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1477930357,
-        "wing_id": 1477855607
-      }, 
+        "venue_id": 1729792411,
+        "wing_id": 1729792389
+      },
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855609,
+        "concourse_id": 1729792391,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "event_id": 1729717517,
         "region_id": 85688637,
-        "venue_id": 1477930357,
-        "wing_id": 1477855607
+        "venue_id": 1729792411,
+        "wing_id": 1729792389
       }
     ],
     "wof:id": 1729717517,
     "wof:involves": [
-      102527513, 
-      102530049, 
-      1159283813, 
-      1477930357, 
+      102527513,
+      102530049,
+      1159283813,
+      1477930357,
       1159289871
     ],
-    "wof:lastmodified": 1610554128,
+    "wof:lastmodified": 1653097166,
     "wof:name": "AS345 (EWR-SFO)",
-    "wof:parent_id": 1477930357,
+    "wof:parent_id": 1729792411,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
@@ -111,9 +114,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

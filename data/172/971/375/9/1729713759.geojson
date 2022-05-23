@@ -2,6 +2,10 @@
   "id": 1729713759,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-10",
+    "date:cessation_upper": "2021-01-10",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
     "edtf:cessation": "2021-01-10T07:10:13-07:00",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": 1610316900,
@@ -32,31 +36,30 @@
     "sfomuseum:departure_id": 102544207,
     "sfomuseum:flight_id": "20210110-A-SAS-935",
     "sfomuseum:flight_number": [
-      "SAS935", 
+      "SAS935",
       "SK935"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "LNRKU",
     "wof:belongsto": [
-      554784711, 
-      102527513, 
-      102191575, 
-      1729713759, 
-      1477855833, 
-      1477930461, 
-      102085387, 
-      85688637, 
-      1477855605, 
-      1477855885, 
-      85633793, 
-      102087579, 
-      85922583
+      554784711,
+      102527513,
+      102191575,
+      102085387,
+      85688637,
+      85633793,
+      102087579,
+      85922583,
+      1729792387,
+      1729792643,
+      1729792649,
+      1729792579
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -64,9 +67,9 @@
     "wof:geomhash": "5ce04c0590c166d926aa7a8325b74dd4",
     "wof:hierarchy": [
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855885,
+        "concourse_id": 1729792643,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -74,33 +77,33 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1477930461,
-        "wing_id": 1477855833
-      }, 
+        "venue_id": 1729792649,
+        "wing_id": 1729792579
+      },
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855885,
+        "concourse_id": 1729792643,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "event_id": 1729713759,
         "region_id": 85688637,
-        "venue_id": 1477930461,
-        "wing_id": 1477855833
+        "venue_id": 1729792649,
+        "wing_id": 1729792579
       }
     ],
     "wof:id": 1729713759,
     "wof:involves": [
-      102527513, 
-      102544207, 
-      1159285129, 
-      1477930461, 
+      102527513,
+      102544207,
+      1159285129,
+      1477930461,
       1159289423
     ],
-    "wof:lastmodified": 1610381613,
+    "wof:lastmodified": 1653097162,
     "wof:name": "SK935 (CPH-SFO)",
-    "wof:parent_id": 1477930461,
+    "wof:parent_id": 1729792649,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
@@ -108,9 +111,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    12.649581, 
+    -122.370943,
+    37.61799,
+    12.649581,
     55.627628
   ],
   "geometry": {"coordinates":[[12.649581,55.627628],[-122.370943,37.61799]],"type":"MultiPoint"}
