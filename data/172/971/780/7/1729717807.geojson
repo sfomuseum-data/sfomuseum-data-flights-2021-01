@@ -2,6 +2,10 @@
   "id": 1729717807,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-12",
+    "date:cessation_upper": "2021-01-12",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
     "edtf:cessation": "2021-01-12T13:29:40-07:00",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": 1610496000,
@@ -32,7 +36,7 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20210112-A-SWA-4118",
     "sfomuseum:flight_number": [
-      "SWA4118", 
+      "SWA4118",
       "WN4118"
     ],
     "sfomuseum:placetype": "flight",
@@ -46,28 +50,35 @@
     "wof:country": "US",
     "wof:created": 1610553869,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729717807
+      }
+    ],
     "wof:id": 1729717807,
     "wof:involves": [
-      102527513, 
-      102526751, 
-      1159285591, 
-      -1, 
+      102527513,
+      102526751,
+      1159285591,
+      -1,
       1159289871
     ],
-    "wof:lastmodified": 1610554128,
+    "wof:lastmodified": 1717032814,
     "wof:name": "WN4118 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

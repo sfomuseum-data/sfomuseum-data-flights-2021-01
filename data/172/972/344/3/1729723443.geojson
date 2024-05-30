@@ -2,6 +2,10 @@
   "id": 1729723443,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-15",
+    "date:cessation_upper": "2021-01-15",
+    "date:inception_lower": "2021-01-14",
+    "date:inception_upper": "2021-01-14",
     "edtf:cessation": "2021-01-14T22:22:26-08:00",
     "edtf:inception": "2021-01-14T23:48:00Z",
     "flysfo:actual_timestamp": 1610668800,
@@ -32,13 +36,13 @@
     "sfomuseum:departure_id": 102555709,
     "sfomuseum:flight_id": "20210114-A-UAL-868",
     "sfomuseum:flight_number": [
-      "UAL868", 
+      "UAL868",
       "UA868"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
+      "swim-route",
       "swim-approach"
     ],
     "swim:tail_number": "N27958",
@@ -51,28 +55,35 @@
     "wof:country": "US",
     "wof:created": 1610726688,
     "wof:geomhash": "c9618692327b148a3f9466df78845400",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729723443
+      }
+    ],
     "wof:id": 1729723443,
     "wof:involves": [
-      102527513, 
-      102555709, 
-      1159285413, 
-      -1, 
+      102527513,
+      102555709,
+      1159285413,
+      -1,
       1159293215
     ],
-    "wof:lastmodified": 1610726897,
+    "wof:lastmodified": 1717032811,
     "wof:name": "UA868 (DEL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    28.561954, 
-    77.098117, 
+    -122.370943,
+    28.561954,
+    77.098117,
     37.61799
   ],
   "geometry": {"coordinates":[[77.098117,28.561954],[-122.370943,37.61799]],"type":"MultiPoint"}

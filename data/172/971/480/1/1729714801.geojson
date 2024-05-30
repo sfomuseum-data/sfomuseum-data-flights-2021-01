@@ -2,6 +2,10 @@
   "id": 1729714801,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-11",
+    "date:cessation_upper": "2021-01-11",
+    "date:inception_lower": "2021-01-10",
+    "date:inception_upper": "2021-01-10",
     "edtf:cessation": "2021-01-11T07:32:00Z",
     "edtf:inception": "2021-01-10T15:14:19-07:00",
     "flysfo:actual_timestamp": 1610323200,
@@ -32,13 +36,13 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210110-D-DAL-8943",
     "sfomuseum:flight_number": [
-      "DAL8943", 
+      "DAL8943",
       "DL8943"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-path", 
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N652DL",
@@ -50,28 +54,35 @@
     "wof:country": "US",
     "wof:created": 1610381432,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729714801
+      }
+    ],
     "wof:id": 1729714801,
     "wof:involves": [
-      102532251, 
-      102527513, 
-      1159284261, 
-      -1, 
+      102532251,
+      102527513,
+      1159284261,
+      -1,
       1159289939
     ],
-    "wof:lastmodified": 1610381615,
+    "wof:lastmodified": 1717032814,
     "wof:name": "DL8943 (SFO-PDX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.597389,45.586144]],"type":"MultiPoint"}

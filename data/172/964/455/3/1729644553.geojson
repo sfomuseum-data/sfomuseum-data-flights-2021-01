@@ -2,6 +2,10 @@
   "id": 1729644553,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-02",
+    "date:cessation_upper": "2021-01-02",
+    "date:inception_lower": "2021-01-02",
+    "date:inception_upper": "2021-01-02",
     "edtf:cessation": "2021-01-02T03:22:00Z",
     "edtf:inception": "2021-01-02T01:11:00Z",
     "flysfo:actual_timestamp": 1609545600,
@@ -32,14 +36,14 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210101-D-FFT-668",
     "sfomuseum:flight_number": [
-      "FFT668", 
+      "FFT668",
       "F9668"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "wof:belongsto": [],
@@ -50,28 +54,35 @@
     "wof:country": "US",
     "wof:created": 1609603637,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729644553
+      }
+    ],
     "wof:id": 1729644553,
     "wof:involves": [
-      102531189, 
-      102527513, 
-      1159284401, 
-      -1, 
+      102531189,
+      102527513,
+      1159284401,
+      -1,
       1377564295
     ],
-    "wof:lastmodified": 1609603746,
+    "wof:lastmodified": 1717032811,
     "wof:name": "F9668 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

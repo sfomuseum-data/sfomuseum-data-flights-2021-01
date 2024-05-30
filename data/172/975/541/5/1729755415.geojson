@@ -34,7 +34,7 @@
     "sfomuseum:departure_id": 102536481,
     "sfomuseum:flight_id": "20210128-A-ACA-5311",
     "sfomuseum:flight_number": [
-      "ACA5311", 
+      "ACA5311",
       "AC5311"
     ],
     "sfomuseum:placetype": "flight",
@@ -43,27 +43,34 @@
     "wof:country": "US",
     "wof:created": 1611936147,
     "wof:geomhash": "87e43b321087b5e7d68ac47fe0a6e824",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729755415
+      }
+    ],
     "wof:id": 1729755415,
     "wof:involves": [
-      102527513, 
-      102536481, 
-      1159283597, 
-      -1, 
+      102527513,
+      102536481,
+      1159283597,
+      -1,
       1159285413
     ],
-    "wof:lastmodified": 1611936147,
+    "wof:lastmodified": 1717032814,
     "wof:name": "AC5311 (PVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.660734, 
-    -105.250456, 
+    -122.370943,
+    20.660734,
+    -105.250456,
     37.61799
   ],
   "geometry": {"coordinates":[[-105.250456,20.660734],[-122.370943,37.61799]],"type":"MultiPoint"}

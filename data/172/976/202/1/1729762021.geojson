@@ -100,10 +100,13 @@
       102527513,
       1159284261
     ],
-    "wof:lastmodified": 1653097288,
+    "wof:lastmodified": 1717032813,
     "wof:name": "DL1317 (SFO-SLC)",
     "wof:parent_id": 1729792415,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -86,10 +86,13 @@
       1159283813,
       1477930367
     ],
-    "wof:lastmodified": 1653097173,
+    "wof:lastmodified": 1717032812,
     "wof:name": "AS3479 (LAX-SFO)",
     "wof:parent_id": 1729792421,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

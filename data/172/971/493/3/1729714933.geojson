@@ -101,10 +101,13 @@
       1477881723,
       1159289411
     ],
-    "wof:lastmodified": 1653097163,
+    "wof:lastmodified": 1717032814,
     "wof:name": "B61616 (SFO-JFK)",
     "wof:parent_id": 1729792443,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

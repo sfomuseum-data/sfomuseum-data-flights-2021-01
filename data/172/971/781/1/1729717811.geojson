@@ -2,6 +2,10 @@
   "id": 1729717811,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-12",
+    "date:cessation_upper": "2021-01-12",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
     "edtf:cessation": "2021-01-12T11:49:52-07:00",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": 1610496000,
@@ -32,7 +36,7 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20210112-A-SWA-479",
     "sfomuseum:flight_number": [
-      "SWA479", 
+      "SWA479",
       "WN479"
     ],
     "sfomuseum:placetype": "flight",
@@ -46,28 +50,35 @@
     "wof:country": "US",
     "wof:created": 1610553870,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729717811
+      }
+    ],
     "wof:id": 1729717811,
     "wof:involves": [
-      102527513, 
-      102533795, 
-      1159285591, 
-      -1, 
+      102527513,
+      102533795,
+      1159285591,
+      -1,
       1159289871
     ],
-    "wof:lastmodified": 1610554128,
+    "wof:lastmodified": 1717032814,
     "wof:name": "WN479 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

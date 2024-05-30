@@ -33,14 +33,14 @@
     "sfomuseum:departure_id": 102541685,
     "sfomuseum:flight_id": "20210128-A-JAL-58",
     "sfomuseum:flight_number": [
-      "JAL58", 
+      "JAL58",
       "JL58"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "JA842J",
@@ -51,26 +51,33 @@
     "wof:country": "US",
     "wof:created": 1611936275,
     "wof:geomhash": "d46bcc8d1d94e68df95be799ac6a3b4c",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729755875
+      }
+    ],
     "wof:id": 1729755875,
     "wof:involves": [
-      1159289995, 
-      102527513, 
-      102541685, 
+      1159289995,
+      102527513,
+      102541685,
       1159284563
     ],
-    "wof:lastmodified": 1611936596,
+    "wof:lastmodified": 1717032813,
     "wof:name": "JL58 (NRT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.755744, 
-    140.395257, 
+    -122.370943,
+    35.755744,
+    140.395257,
     37.61799
   ],
   "geometry": {"coordinates":[[140.395257,35.755744],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1729723321,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-15",
+    "date:cessation_upper": "2021-01-15",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
     "edtf:cessation": "2021-01-14T21:43:32-08:00",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": 1610668800,
@@ -32,7 +36,7 @@
     "sfomuseum:departure_id": 102528943,
     "sfomuseum:flight_id": "20210114-A-UAL-1746",
     "sfomuseum:flight_number": [
-      "UAL1746", 
+      "UAL1746",
       "UA1746"
     ],
     "sfomuseum:placetype": "flight",
@@ -46,28 +50,35 @@
     "wof:country": "US",
     "wof:created": 1610726654,
     "wof:geomhash": "46fccc0e56242535ccfd5ecb278f9a75",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729723321
+      }
+    ],
     "wof:id": 1729723321,
     "wof:involves": [
-      102527513, 
-      102528943, 
-      1159285413, 
-      -1, 
+      102527513,
+      102528943,
+      1159285413,
+      -1,
       1159289871
     ],
-    "wof:lastmodified": 1610726896,
+    "wof:lastmodified": 1717032811,
     "wof:name": "UA1746 (LIH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -159.347789, 
-    21.981539, 
-    -122.370943, 
+    -159.347789,
+    21.981539,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-159.347789,21.981539],[-122.370943,37.61799]],"type":"MultiPoint"}

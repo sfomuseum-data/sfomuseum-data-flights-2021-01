@@ -69,10 +69,13 @@
       -1,
       1159289993
     ],
-    "wof:lastmodified": 1652122258,
+    "wof:lastmodified": 1717032811,
     "wof:name": "UA2588 (SFO-COS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

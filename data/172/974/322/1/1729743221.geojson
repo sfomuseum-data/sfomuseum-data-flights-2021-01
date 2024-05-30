@@ -33,14 +33,14 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20210121-A-HAL-12",
     "sfomuseum:flight_number": [
-      "HAL12", 
+      "HAL12",
       "HA12"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N396HA",
@@ -48,27 +48,34 @@
     "wof:country": "US",
     "wof:created": 1611331439,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729743221
+      }
+    ],
     "wof:id": 1729743221,
     "wof:involves": [
-      102527513, 
-      102533997, 
-      1159284489, 
-      -1, 
+      102527513,
+      102533997,
+      1159284489,
+      -1,
       1159289421
     ],
-    "wof:lastmodified": 1611604791,
+    "wof:lastmodified": 1717032812,
     "wof:name": "HA12 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

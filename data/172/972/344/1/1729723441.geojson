@@ -2,6 +2,10 @@
   "id": 1729723441,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-14",
+    "date:cessation_upper": "2021-01-14",
+    "date:inception_lower": "2021-01-14",
+    "date:inception_upper": "2021-01-14",
     "edtf:cessation": "2021-01-14T00:16:41-08:00",
     "edtf:inception": "2021-01-14T11:50:00Z",
     "flysfo:actual_timestamp": 1610668800,
@@ -32,14 +36,14 @@
     "sfomuseum:departure_id": 102536579,
     "sfomuseum:flight_id": "20210114-A-UAL-820",
     "sfomuseum:flight_number": [
-      "UAL820", 
+      "UAL820",
       "UA820"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N14250",
@@ -52,28 +56,35 @@
     "wof:country": "US",
     "wof:created": 1610726688,
     "wof:geomhash": "4224d1c4c9907a232ddfbf90e60373e4",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729723441
+      }
+    ],
     "wof:id": 1729723441,
     "wof:involves": [
-      102527513, 
-      102536579, 
-      1159285413, 
-      -1, 
+      102527513,
+      102536579,
+      1159285413,
+      -1,
       1159289871
     ],
-    "wof:lastmodified": 1610726897,
+    "wof:lastmodified": 1717032811,
     "wof:name": "UA820 (MEX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    19.431302, 
-    -99.080804, 
+    -122.370943,
+    19.431302,
+    -99.080804,
     37.61799
   ],
   "geometry": {"coordinates":[[-99.080804,19.431302],[-122.370943,37.61799]],"type":"MultiPoint"}

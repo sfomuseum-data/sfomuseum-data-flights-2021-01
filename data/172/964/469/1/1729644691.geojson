@@ -2,6 +2,10 @@
   "id": 1729644691,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-01",
+    "date:cessation_upper": "2021-01-01",
+    "date:inception_lower": "2021-01-01",
+    "date:inception_upper": "2021-01-01",
     "edtf:cessation": "2021-01-01T19:59:00Z",
     "edtf:inception": "2021-01-01T17:03:00Z",
     "flysfo:actual_timestamp": 1609545600,
@@ -32,14 +36,14 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210101-D-UAL-1212",
     "sfomuseum:flight_number": [
-      "UAL1212", 
+      "UAL1212",
       "UA1212"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N440UA",
@@ -52,28 +56,35 @@
     "wof:country": "US",
     "wof:created": 1609603672,
     "wof:geomhash": "ae49e61cad725fa4577f8355bb7297ad",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729644691
+      }
+    ],
     "wof:id": 1729644691,
     "wof:involves": [
-      102536481, 
-      102527513, 
-      1159285413, 
-      -1, 
+      102536481,
+      102527513,
+      1159285413,
+      -1,
       1159292085
     ],
-    "wof:lastmodified": 1609603746,
+    "wof:lastmodified": 1717032813,
     "wof:name": "UA1212 (SFO-PVR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    20.660734, 
-    -105.250456, 
+    -122.370943,
+    20.660734,
+    -105.250456,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-105.250456,20.660734]],"type":"MultiPoint"}

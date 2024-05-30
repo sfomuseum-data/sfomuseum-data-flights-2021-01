@@ -105,10 +105,13 @@
       1477930439,
       1159292085
     ],
-    "wof:lastmodified": 1653097157,
+    "wof:lastmodified": 1717032814,
     "wof:name": "UA1687 (PDX-SFO)",
     "wof:parent_id": 1729792527,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

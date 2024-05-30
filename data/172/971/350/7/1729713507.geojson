@@ -2,6 +2,10 @@
   "id": 1729713507,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-10",
+    "date:cessation_upper": "2021-01-10",
+    "date:inception_lower": "2021-01-11",
+    "date:inception_upper": "2021-01-11",
     "edtf:cessation": "2021-01-10T10:53:05-07:00",
     "edtf:inception": "2021-01-11T01:18:00Z",
     "flysfo:actual_timestamp": 1610323200,
@@ -32,13 +36,13 @@
     "sfomuseum:departure_id": 102530559,
     "sfomuseum:flight_id": "20210110-A-DAL-8842",
     "sfomuseum:flight_number": [
-      "DAL8842", 
+      "DAL8842",
       "DL8842"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-path", 
+      "swim-path",
       "swim-approach"
     ],
     "wof:belongsto": [],
@@ -49,28 +53,35 @@
     "wof:country": "US",
     "wof:created": 1610381077,
     "wof:geomhash": "f5805f1be1c56ce2a2965880e252c65f",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729713507
+      }
+    ],
     "wof:id": 1729713507,
     "wof:involves": [
-      102527513, 
-      102530559, 
-      1159284261, 
-      -1, 
+      102527513,
+      102530559,
+      1159284261,
+      -1,
       1159289939
     ],
-    "wof:lastmodified": 1610381613,
+    "wof:lastmodified": 1717032812,
     "wof:name": "DL8842 (SMF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -121.589912, 
+    -122.370943,
+    37.61799,
+    -121.589912,
     38.685533
   ],
   "geometry": {"coordinates":[[-121.589912,38.685533],[-122.370943,37.61799]],"type":"MultiPoint"}

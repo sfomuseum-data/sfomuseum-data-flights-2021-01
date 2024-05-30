@@ -95,10 +95,13 @@
       1528104583,
       102527363
     ],
-    "wof:lastmodified": 1653097300,
+    "wof:lastmodified": 1717032812,
     "wof:name": "DL1380 (SFO-SLC)",
     "wof:parent_id": 1729792473,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -2,6 +2,10 @@
   "id": 1729644635,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-02",
+    "date:cessation_upper": "2021-01-02",
+    "date:inception_lower": "2021-01-01",
+    "date:inception_upper": "2021-01-01",
     "edtf:cessation": "2021-01-02T10:34:50Z",
     "edtf:inception": "2021-01-01T09:29:45-07:00",
     "flysfo:actual_timestamp": 1609545600,
@@ -32,14 +36,14 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210101-D-SAS-936",
     "sfomuseum:flight_number": [
-      "SAS936", 
+      "SAS936",
       "SK936"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "SEREH",
@@ -48,28 +52,35 @@
     "wof:country": "US",
     "wof:created": 1609603658,
     "wof:geomhash": "6cbb76e93301e33133b7541a51de6b35",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729644635
+      }
+    ],
     "wof:id": 1729644635,
     "wof:involves": [
-      102544207, 
-      102527513, 
-      1159285129, 
-      -1, 
+      102544207,
+      102527513,
+      1159285129,
+      -1,
       1159289423
     ],
-    "wof:lastmodified": 1609603746,
+    "wof:lastmodified": 1717032811,
     "wof:name": "SK936 (SFO-CPH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    12.649581, 
+    -122.370943,
+    37.61799,
+    12.649581,
     55.627628
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[12.649581,55.627628]],"type":"MultiPoint"}

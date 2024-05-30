@@ -2,6 +2,10 @@
   "id": 1729676803,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-04",
+    "date:cessation_upper": "2021-01-04",
+    "date:inception_lower": "2021-01-04",
+    "date:inception_upper": "2021-01-04",
     "edtf:cessation": "2021-01-04T19:52:00Z",
     "edtf:inception": "2021-01-04T02:07:38-07:00",
     "flysfo:actual_timestamp": 1609804800,
@@ -32,14 +36,14 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210104-D-UAL-1189",
     "sfomuseum:flight_number": [
-      "UAL1189", 
+      "UAL1189",
       "UA1189"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N462UA",
@@ -52,28 +56,35 @@
     "wof:country": "US",
     "wof:created": 1609863003,
     "wof:geomhash": "7babf6b9ba279da48525185e0724d212",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729676803
+      }
+    ],
     "wof:id": 1729676803,
     "wof:involves": [
-      102536441, 
-      102527513, 
-      1159285413, 
-      -1, 
+      102536441,
+      102527513,
+      1159285413,
+      -1,
       1159292085
     ],
-    "wof:lastmodified": 1609863074,
+    "wof:lastmodified": 1717032810,
     "wof:name": "UA1189 (SFO-SJD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-109.717461,23.160962]],"type":"MultiPoint"}

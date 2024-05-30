@@ -33,14 +33,14 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210124-D-AMX-669",
     "sfomuseum:flight_number": [
-      "AMX669", 
+      "AMX669",
       "AM669"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "XAAMM",
@@ -51,27 +51,34 @@
     "wof:country": "US",
     "wof:created": 1611590798,
     "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729748811
+      }
+    ],
     "wof:id": 1729748811,
     "wof:involves": [
-      102536579, 
-      102527513, 
-      1159283539, 
-      -1, 
+      102536579,
+      102527513,
+      1159283539,
+      -1,
       1159289871
     ],
-    "wof:lastmodified": 1611604522,
+    "wof:lastmodified": 1717032814,
     "wof:name": "AM669 (SFO-MEX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    19.431302, 
-    -99.080804, 
+    -122.370943,
+    19.431302,
+    -99.080804,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-99.080804,19.431302]],"type":"MultiPoint"}

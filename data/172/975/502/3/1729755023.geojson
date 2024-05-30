@@ -86,10 +86,13 @@
       1159285413,
       1477930463
     ],
-    "wof:lastmodified": 1653097255,
+    "wof:lastmodified": 1717032813,
     "wof:name": "UA2159 (SFO-LIR)",
     "wof:parent_id": 1729792651,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -2,6 +2,10 @@
   "id": 1729723993,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-14",
+    "date:cessation_upper": "2021-01-14",
+    "date:inception_lower": "2021-01-14",
+    "date:inception_upper": "2021-01-14",
     "edtf:cessation": "2021-01-14T17:31:00Z",
     "edtf:inception": "2021-01-14T16:21:00Z",
     "flysfo:actual_timestamp": 1610668800,
@@ -32,13 +36,13 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210114-D-SWA-3389",
     "sfomuseum:flight_number": [
-      "SWA3389", 
+      "SWA3389",
       "WN3389"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-path", 
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N8674B",
@@ -50,28 +54,35 @@
     "wof:country": "US",
     "wof:created": 1610726834,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729723993
+      }
+    ],
     "wof:id": 1729723993,
     "wof:involves": [
-      102528997, 
-      102527513, 
-      1159285591, 
-      -1, 
+      102528997,
+      102527513,
+      1159285591,
+      -1,
       1159289871
     ],
-    "wof:lastmodified": 1610726896,
+    "wof:lastmodified": 1717032811,
     "wof:name": "WN3389 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

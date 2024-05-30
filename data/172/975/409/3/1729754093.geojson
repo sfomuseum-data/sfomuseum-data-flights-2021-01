@@ -33,14 +33,14 @@
     "sfomuseum:departure_id": 102553957,
     "sfomuseum:flight_id": "20210127-A-SWR-38",
     "sfomuseum:flight_number": [
-      "SWR38", 
+      "SWR38",
       "LX38"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "HBJNG",
@@ -51,26 +51,33 @@
     "wof:country": "US",
     "wof:created": 1611849888,
     "wof:geomhash": "59c1b41e582a5fde12da38b49a2c462f",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729754093
+      }
+    ],
     "wof:id": 1729754093,
     "wof:involves": [
-      102553957, 
-      1159286475, 
-      1159289993, 
+      102553957,
+      1159286475,
+      1159289993,
       102527513
     ],
-    "wof:lastmodified": 1611850181,
+    "wof:lastmodified": 1717032813,
     "wof:name": "LX38 (ZRH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    8.559692, 
+    -122.370943,
+    37.61799,
+    8.559692,
     47.455793
   ],
   "geometry": {"coordinates":[[8.559692,47.455793],[-122.370943,37.61799]],"type":"MultiPoint"}

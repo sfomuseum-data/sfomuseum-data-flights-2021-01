@@ -2,6 +2,10 @@
   "id": 1729647667,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-03",
+    "date:cessation_upper": "2021-01-03",
+    "date:inception_lower": "2021-01-03",
+    "date:inception_upper": "2021-01-03",
     "edtf:cessation": "2021-01-03T16:27:00Z",
     "edtf:inception": "2021-01-03T14:04:00Z",
     "flysfo:actual_timestamp": 1609718400,
@@ -32,13 +36,13 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20210103-A-FFT-663",
     "sfomuseum:flight_number": [
-      "FFT663", 
+      "FFT663",
       "F9663"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
+      "swim-route",
       "swim-path"
     ],
     "wof:belongsto": [],
@@ -50,28 +54,35 @@
     "wof:country": "US",
     "wof:created": 1609776215,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729647667
+      }
+    ],
     "wof:id": 1729647667,
     "wof:involves": [
-      102527513, 
-      102531189, 
-      1159284401, 
-      -1, 
+      102527513,
+      102531189,
+      1159284401,
+      -1,
       1159292085
     ],
-    "wof:lastmodified": 1609776561,
+    "wof:lastmodified": 1717032811,
     "wof:name": "F9663 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

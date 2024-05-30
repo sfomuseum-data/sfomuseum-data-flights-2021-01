@@ -2,6 +2,10 @@
   "id": 1729644465,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-02",
+    "date:cessation_upper": "2021-01-02",
+    "date:inception_lower": "2021-01-01",
+    "date:inception_upper": "2021-01-01",
     "edtf:cessation": "2021-01-02T02:19:56Z",
     "edtf:inception": "2021-01-01T13:20:00Z",
     "flysfo:actual_timestamp": 1609545600,
@@ -32,13 +36,13 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210101-D-CAL-5107",
     "sfomuseum:flight_number": [
-      "CAL5107", 
+      "CAL5107",
       "CI5107"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
+      "swim-route",
       "swim-path"
     ],
     "wof:belongsto": [],
@@ -49,28 +53,35 @@
     "wof:country": "US",
     "wof:created": 1609603615,
     "wof:geomhash": "ec4a8fe4d0e09d37ae50bf109072b003",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729644465
+      }
+    ],
     "wof:id": 1729644465,
     "wof:involves": [
-      102551487, 
-      102527513, 
-      1159284153, 
-      -1, 
+      102551487,
+      102527513,
+      1159284153,
+      -1,
       1159289915
     ],
-    "wof:lastmodified": 1609603746,
+    "wof:lastmodified": 1717032811,
     "wof:name": "CI5107 (SFO-TPE)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    25.078566, 
-    121.233152, 
+    -122.370943,
+    25.078566,
+    121.233152,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[121.233152,25.078566]],"type":"MultiPoint"}

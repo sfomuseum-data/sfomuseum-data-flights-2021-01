@@ -95,10 +95,13 @@
       102527513,
       102526927
     ],
-    "wof:lastmodified": 1653097304,
+    "wof:lastmodified": 1717032810,
     "wof:name": "DL710 (ATL-SFO)",
     "wof:parent_id": 1729792477,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

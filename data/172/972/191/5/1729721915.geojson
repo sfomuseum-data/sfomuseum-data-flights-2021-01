@@ -2,6 +2,10 @@
   "id": 1729721915,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-01-14",
+    "date:cessation_upper": "2021-01-14",
+    "date:inception_lower": "2021-01-14",
+    "date:inception_upper": "2021-01-14",
     "edtf:cessation": "2021-01-14T11:30:24Z",
     "edtf:inception": "2021-01-14T08:11:00Z",
     "flysfo:actual_timestamp": 1610582400,
@@ -30,13 +34,13 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210113-D-AMX-609",
     "sfomuseum:flight_number": [
-      "AMX609", 
+      "AMX609",
       "AM609"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
+      "swim-route",
       "swim-path"
     ],
     "wof:belongsto": [],
@@ -47,27 +51,34 @@
     "wof:country": "US",
     "wof:created": 1610660296,
     "wof:geomhash": "c9806dbd281b9c6ccae24134b59a20cd",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729721915
+      }
+    ],
     "wof:id": 1729721915,
     "wof:involves": [
-      102536387, 
-      102527513, 
-      1159283539, 
+      102536387,
+      102527513,
+      1159283539,
       -1
     ],
-    "wof:lastmodified": 1610663715,
+    "wof:lastmodified": 1717032812,
     "wof:name": "AM609 (SFO-GDL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    20.525627, 
-    -103.301974, 
+    -122.370943,
+    20.525627,
+    -103.301974,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-103.301974,20.525627]],"type":"MultiPoint"}

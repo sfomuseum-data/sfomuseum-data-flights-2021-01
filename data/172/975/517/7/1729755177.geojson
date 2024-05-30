@@ -34,7 +34,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210127-D-UAL-9725",
     "sfomuseum:flight_number": [
-      "UAL9725", 
+      "UAL9725",
       "UA9725"
     ],
     "sfomuseum:placetype": "flight",
@@ -43,27 +43,34 @@
     "wof:country": "US",
     "wof:created": 1611850160,
     "wof:geomhash": "75c5706ba72cddd7f95f840531183522",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729755177
+      }
+    ],
     "wof:id": 1729755177,
     "wof:involves": [
-      102553957, 
-      102527513, 
-      1159285413, 
-      -1, 
+      102553957,
+      102527513,
+      1159285413,
+      -1,
       1159286475
     ],
-    "wof:lastmodified": 1611850160,
+    "wof:lastmodified": 1717032814,
     "wof:name": "UA9725 (SFO-ZRH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-01",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    8.559692, 
+    -122.370943,
+    37.61799,
+    8.559692,
     47.455793
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[8.559692,47.455793]],"type":"MultiPoint"}
